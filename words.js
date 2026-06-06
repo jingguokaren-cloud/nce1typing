@@ -227,7 +227,7 @@ const nceWords = {
       { en: "grey", cn: "灰色的" },
       { en: "yellow", cn: "黄色的" },
       { en: "black", cn: "黑色的" },
-      { en: "orawoxinge", cn: "橘黄色的" }
+      { en: "orange", cn: "橘黄色的" }
     ]
   },
   17: {
