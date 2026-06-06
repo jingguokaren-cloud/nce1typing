@@ -445,8 +445,8 @@
           if (!currentWordHadError) {
             recordFavCorrect(currentWord.text);
           } else {
-            // 如果输错了，将该词重新插入队列，要求连输3次
-            challengeQueue.splice(queueIndex, 0, currentWord, currentWord, currentWord);
+            // 如果输错了，将该词重新插入队列，要求连输2次
+            challengeQueue.splice(queueIndex, 0, currentWord, currentWord);
           }
         }
         
